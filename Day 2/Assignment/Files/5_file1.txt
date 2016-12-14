@@ -1,0 +1,3 @@
+I am only on file 1
+I am on both files
+Also only on file 1

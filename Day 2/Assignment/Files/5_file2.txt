@@ -1,0 +1,4 @@
+I am only on file 2
+I am on both files
+File 2 only
+File 2 extra line
